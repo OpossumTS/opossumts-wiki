@@ -2,7 +2,7 @@
 title: Code of Conduct
 description:
 icon: 🚓
-tags: 
+tags: rules
 ---
 
 {danger:⚠️}The English part of this Agreement is a non-binding convenience translation. In cases of doubt, the German version of this Agreement prevails.{/danger}

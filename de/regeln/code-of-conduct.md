@@ -2,7 +2,7 @@
 title: Verhaltensregeln
 description:
 icon: 🚓
-tags:
+tags: regeln
 ---
 
 ## Vorwort
@@ -67,4 +67,4 @@ Damit das Ranksystem funktionieren kann, wird regliche Onlinezeit der Nutzer fes
 
 ## Musikbots
 
-Jeder Nutzer kann die Musikbots im Teamspeak moven. Musikbots dürfen nur aus den offziellen Channel gemoved werden, wenn bereits ein anderer Nutzer diesen verwendet, das das moven nicht erlaubt. Eigene Musikbots müssen bei der Administration beantragt werden. 
+Jeder Nutzer kann die Musikbots im Teamspeak moven. Musikbots dürfen nur aus den offziellen Channel gemoved werden, wenn bereits ein anderer Nutzer diesen verwendet, das das moven nicht erlaubt. Eigene Musikbots müssen bei der Administration beantragt werden.
