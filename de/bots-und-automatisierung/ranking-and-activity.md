@@ -5,7 +5,8 @@ icon: 🏆
 tags: ranking, leveling, premium
 ---
 
-Wie dir wahrscheinlich aufgefallen ist levelst du auf unserem TeamSpeak ab und zu auf. Dein Level ist abhängig von der aktiven Zeit die du auf dem Server verbracht hast. Das System achtet dabei bestmöglich darauf aktive Leute zu belohnen, nicht nur gesprächige 😉 Eingeführt wurde das System im Oktober 2017.
+Unser TeamSpeak besitzt ein eigenes Level-System, dein Level ist dabei von der aktiven Zeit auf unseren TeamSpeak und anderen Faktoren abhängig.
+Eingeführt wurde das System im Oktober 2017.
 
 ----------
 
@@ -24,16 +25,18 @@ Grundsätzlich bekommst du für jedes Level das du aufsteigst mehr Talk Power, d
 {spoiler: Level 25}Solltest du im Forum registiert sein erhälst du automatisch **1000** Punkte für eine kleine Shopping-Tour :){/spoiler}
 {spoiler: Level 30}Für deine außerordentliche Treue erhälst du von uns kostenlos ein OpossumTS-Shirt deiner Wahl :) _Gilt nur für die ersten 20 Nutzer die Level 30 erreichen._{/spoiler}
 
-{danger:⚠️}Bei Missbrauch dieser Rechte werden sie entfernt und für min. 1 Tag gebannt. Ein Versuch, die Stufe im Ranking durch Betrug wie z.B. Dauersenden zu erhöhen, wird mit einem Ausschluss aus diesem bestraft.{/danger}
+{danger:⚠️}Bei Missbrauchen dieser Rechte werden sie dir entfernt und du wirst für einen angemessenen Zeitraum gebannt.{/danger}
+
+{danger:⚠️}Ein Versuch, die Stufe im Ranking durch Betrug wie z.B. Dauersenden zu erhöhen, wird mit einem Ausschluss aus diesem bestraft.{/danger}
 
 ### Gibt es etwas besonderes wenn Ich unter den Top 10 bin?
-Nicht direkt, allerdings erhalten die ersten 20 Leute die Level 30 erreichen ein kostenloses T-Shirt aus unserem Shop 🤗 Weltweiter Versand inklusive.
+Nein, aber die ersten 20 Leute welche Level 30 erreichen bekommen ein kostenloses T-Shirt aus unserem Shop! 🤗
 
-### Diese Level nerven mich, wie kann Ich die loswerden?
-Wenn du das Ranking für dich deaktivieren möchtest, melde dich bitte beim Team. Bedenke allerdings das du keinerlei Level-Boni erhalten kannst wenn dein Ranking deaktiviert ist.
+### Kann ich das Leveling deaktivieren?
+Ja, um das Leveling zu deaktivieren melde dich bitte bei einem Teammitglied. Bedenke allerdings das du keinerlei Level-Boni erhalten wirst.
 
 ### Kann Ich irgendwie schneller Leveln?
-Jap, geht ganz einfach. Levelboosts können dein Leveling deutlich beschleunigen, du erhälst sie beispielsweise bei Events oder kannst die via Punkteshop im Forum erwerben. Zudem kannst du alle 24 Stunden für den Server voten um einen **x2** Boost für 3 Stunden zu erhalten.
+Ja, Levelboosts können dein Leveling beschleunigen, du erhälst sie durch Events oder kannst sie im Punkteshop des Forums erwerben. Zudem kannst du alle 24 Stunden für den Server voten um einen **x2** Boost für 3 Stunden zu erhalten.
 
 ### Was genau heißt "aktive Zeit"?
-Das ist eine gute Frage. Leider können wir sie nicht so einfach beantworten. Wenn du auf irgendeine Art und Weise mit dem Server interagiert beginnt ein Timer. Ein ordentlicher Zeitraum danach wird dir als aktive Zeit angerechnet. Wie lang genau dieser Zeitraum ist können wir leider nicht sagen, da es vom mehreren anderen Faktoren anhängt. Außerdem wollen wir den Wettstreit so fair wie möglich halten. Um Cheating zu verhindern geben wir keine detailierten Informationen über den Tracking-Algorithmus bekannt.  
+Die aktive Zeit die du auf unserem Server verbringst, AFK sein gehört leider nicht dazu!😅
