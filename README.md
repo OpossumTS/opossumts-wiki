@@ -2,6 +2,18 @@
 
 This repository contains the data displayed at our [Wiki-Page](https://help.teamspeak.gg).
 
+## Custom Tags
+
+In addition to Markdown we use custom tags for formatting.
+
+#### Danger
+`{danger:⚠️}This is dangerous!{/danger}`
+![Danger Image](https://i.imgur.com/wUf9TGt.png)
+
+#### Spoiler
+`{spoiler: Spoiler about Opossums}Opossums are cute!{/spoiler}`
+![Spoiler Image](https://i.imgur.com/Bw2vEOJ.png)
+
 ## Contributing
 
 todo
