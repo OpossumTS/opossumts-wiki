@@ -5,8 +5,7 @@ icon: 🏆
 tags: ranking, leveling, premium
 ---
 
-Unser TeamSpeak besitzt ein eigenes Level-System, dein Level ist dabei von der aktiven Zeit auf unseren TeamSpeak und anderen Faktoren abhängig.
-Eingeführt wurde das System im Oktober 2017.
+Unser TeamSpeak verfügt ein eigenes Level-System, dein Level ist dabei von der aktiven Zeit auf dem TeamSpeak und einigen anderen Faktoren abhängig. Eingeführt wurde das System im Oktober 2017.
 
 ----------
 
@@ -26,7 +25,6 @@ Grundsätzlich bekommst du für jedes Level das du aufsteigst mehr Talk Power, d
 {spoiler: Level 30}Für deine außerordentliche Treue erhälst du von uns kostenlos ein OpossumTS-Shirt deiner Wahl :) _Gilt nur für die ersten 20 Nutzer die Level 30 erreichen._{/spoiler}
 
 {danger:⚠️}Bei Missbrauchen dieser Rechte werden sie dir entfernt und du wirst für einen angemessenen Zeitraum gebannt.{/danger}
-
 {danger:⚠️}Ein Versuch, die Stufe im Ranking durch Betrug wie z.B. Dauersenden zu erhöhen, wird mit einem Ausschluss aus diesem bestraft.{/danger}
 
 ### Gibt es etwas besonderes wenn Ich unter den Top 10 bin?
@@ -39,4 +37,4 @@ Ja, um das Leveling zu deaktivieren melde dich bitte bei einem Teammitglied. Bed
 Ja, Levelboosts können dein Leveling beschleunigen, du erhälst sie durch Events oder kannst sie im Punkteshop des Forums erwerben. Zudem kannst du alle 24 Stunden für den Server voten um einen **x2** Boost für 3 Stunden zu erhalten.
 
 ### Was genau heißt "aktive Zeit"?
-Die aktive Zeit die du auf unserem Server verbringst, AFK sein gehört leider nicht dazu!😅
+Die aktive Zeit die du auf unserem Server verbringst, AFK sein gehört leider nicht dazu. 😅
