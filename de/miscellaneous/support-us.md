@@ -14,7 +14,7 @@ Hier ein paar einfache Möglichkeiten wie du uns unterstützen kannst:
 
 ### Erzähl deinen Freunden von uns
 
-The easiest way to help us out is to reach out to your friends and play together with them. Everyone is welcome here! Tell them about the server, the community and get them hyped up!
+Der einfachste Weg uns zu Unterstützen ist, indem du deinen Freunden von uns erzählst und mit Ihnen zusammen spielst! 💥
 
 ### Poste auf Social Media
 
