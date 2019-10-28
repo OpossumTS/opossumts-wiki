@@ -3,6 +3,7 @@ title: Unterstütze uns
 description:
 icon: 💖
 tags:
+url: unterstuetze-uns
 ---
 
 Hey 👋

@@ -3,6 +3,7 @@ title: Ranking & Aktivität
 description:
 icon: 🏆
 tags: ranking, leveling, premium
+url: ranking-und-aktivitaet
 ---
 
 Unser TeamSpeak verfügt ein eigenes Level-System, dein Level ist dabei von der aktiven Zeit auf dem TeamSpeak und einigen anderen Faktoren abhängig. Eingeführt wurde das System im Oktober 2017.
