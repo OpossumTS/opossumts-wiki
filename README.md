@@ -1,6 +1,6 @@
 # OpossumTS-Wiki
 
-This repository contains the data displayed at our [Wiki-Page](https://help.teamspeak.gg).
+This repository contains the data displayed at our [Wiki-Page](https://help.opossumts.net).
 
 ## Custom Tags
 
