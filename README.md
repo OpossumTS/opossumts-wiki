@@ -12,7 +12,10 @@ In addition to Markdown we use custom tags for formatting.
 
 #### Spoiler
 `{spoiler: Spoiler about Opossums}Opossums are cute!{/spoiler}`
-![Spoiler Image](https://i.imgur.com/Bw2vEOJ.png)
+<details>
+  <summary>Spoiler about Opossums</summary>
+  Opossums are cute!
+</details>
 
 ## Contributing
 
