@@ -50,9 +50,9 @@ Es ist nicht erlaubt durch jegliche Maßnahmen oder Handlungen die Stabilität d
 
 ## Streamer & Content-Creator
 
-Wer bei uns im TS3 Streamen möchte, muss dies zuvor mit DrOpossum absprechen. Wir weisen euch einen Channel zu und in alle Relevanten Sachen ein.
-Alle Streamer haben das recht sobald sie in einem Streaming oder Aufnahme-Channel sind ungestört zu sein. Also wenn ihr was von solch einem Streamer wollt nutzt den Stream-Chat.
-Das Mitschneiden von Gesprächen ist auf dem gesamten Server nur nach Absprache mit den anwesenden Benutzern des entsprechenden Channels erlaubt. Willigt ein User nicht der Aufnahme ein, ist die Aufnahme des Gesprächs verboten. Die aufnehmende Person ist mit der Servergruppe "Aufnahme / Stream" zu kennzeichnen. Dies gilt nicht in den Stream-Channels. Ein Stream darf, genau wie die Mitgleidersuche, nicht zum abwerben von Nutzern auf andere Server verwendet werden.
+Wer bei uns im TS3 Streamen möchte, muss dies zuvor mit DrOpossum absprechen. Wir weisen euch einen Channel zu und in alle relevanten Sachen ein.
+Alle Streamer haben das Recht sobald sie in einem Streaming oder Aufnahme-Channel sind ungestört zu sein. Also wenn ihr was von solch einem Streamer wollt nutzt den Stream-Chat.
+Das Mitschneiden von Gesprächen ist auf dem gesamten Server nur nach Absprache mit den anwesenden Benutzern des entsprechenden Channels erlaubt. Willigt ein User nicht der Aufnahme ein, ist die Aufnahme des Gesprächs verboten. Die aufnehmende Person ist mit der Servergruppe "Aufnahme / Stream" zu kennzeichnen. Dies gilt nicht in den Stream-Channels. Ein Stream darf, genau wie die Mitgleidersuche, nicht zum Abwerben von Nutzern auf andere Server verwendet werden.
 
 ## VPN
 
@@ -64,8 +64,8 @@ Um Phishing und Betrug vorzubeugen ist der private Handel auf allen Plattformen 
 
 ## Ranking
 
-Damit das Ranksystem funktionieren kann, wird regliche Onlinezeit der Nutzer festgehalten. Ein Versuch, die Stufe im Ranking durch Betrug wie z.B. Dauersenden zu erhöhen, wird mit einem Ausschluss aus diesem bestraft. Der Anbieter ist nicht verpflichtet, für eine erfolgreiche Nutzung dieser Boosts zu garantieren.
+Damit das Ranksystem funktionieren kann, wird jegliche Onlinezeit der Nutzer festgehalten. Ein Versuch, die Stufe im Ranking durch Betrug wie z.B. Dauersenden zu erhöhen, wird mit einem Ausschluss aus diesem bestraft. Der Anbieter ist nicht verpflichtet, für eine erfolgreiche Nutzung dieser Boosts zu garantieren.
 
 ## Musikbots
 
-Jeder Nutzer kann die Musikbots im Teamspeak moven. Musikbots dürfen nur aus den offziellen Channel gemoved werden, wenn bereits ein anderer Nutzer diesen verwendet, das das moven nicht erlaubt. Eigene Musikbots müssen bei der Administration beantragt werden.
+Jeder Nutzer kann die Musikbots im Teamspeak moven. Musikbots dürfen nur aus den offziellen Channel gemoved werden, wenn bereits ein anderer Nutzer diesen verwendet, dass das Moven nicht erlaubt. Eigene Musikbots müssen bei der Administration beantragt werden.
