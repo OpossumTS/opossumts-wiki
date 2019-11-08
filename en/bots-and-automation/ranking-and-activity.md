@@ -22,12 +22,12 @@ Depending on your Level you gain multiple perks. Your rank in the server leaderb
 
 Even level up increases your talk power, meaning you'll get sorted higher in the channel. Also, there are some special perks awarded every 5 levels.
 
-{spoiler: Level 5}With Level 5 you're now able to move Music Bots to your own channel and enjoy some music!
-{spoiler: Level 10}At Level 10 you gain the ability to create complaints via TeamSpeak. Our Staff will instantly be notified to help you whenever someone is bugging you.
-{spoiler: Level 15}Once you've reached Level 15, you're seen as a thrustworthy member of our community. You may now move new users to get your friends to you if they first connect.
-{spoiler: Level 20}Level 20 rewards you with one month of free Premium & gain the ability to whisper.
-{spoiler: Level 25}1000 Points for free. That's it :)
-{spoiler: Level 30}A Teee for Freeee 🎁
+{spoiler: Level 5}With Level 5 you're now able to move Music Bots to your own channel and enjoy some music!{/spoiler}
+{spoiler: Level 10}At Level 10 you gain the ability to create complaints via TeamSpeak. Our Staff will instantly be notified to help you whenever someone is bugging you.{/spoiler}
+{spoiler: Level 15}Once you've reached Level 15, you're seen as a thrustworthy member of our community. You may now move new users to get your friends to you if they first connect.{/spoiler}
+{spoiler: Level 20}Level 20 rewards you with one month of free Premium & gain the ability to whisper.{/spoiler}
+{spoiler: Level 25}1000 Points for free. That's it :){/spoiler}
+{spoiler: Level 30}A Teee for Freeee 🎁{/spoiler}
 
 In case of misuse of these rights they will be removed! Trying to improve your rank by fraud such as continuous send is punished with permanent exclusion from the ranking.
 
