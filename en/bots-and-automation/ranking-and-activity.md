@@ -10,8 +10,6 @@ url: ranking-and-activity
 
 As you might have noticed, using the TeamSpeak grants you levels from time to time. Your level is determined by the active time you've spent on the server. The system is designed to benefit active people, not talkative people, so don't worry if you're rather quiet, we've got you back 😉 The system was introduced in October 2017.
 
----
-
 ### Where can I see the leaderboard?
 
 You can find all kinds of statistics [here](https://ranksystem.opossumts.net).
@@ -29,7 +27,8 @@ Even level up increases your talk power, meaning you'll get sorted higher in the
 {spoiler: Level 25}1000 Points for free. That's it :){/spoiler}
 {spoiler: Level 30}A Teee for Freeee 🎁{/spoiler}
 
-In case of misuse of these rights they will be removed! Trying to improve your rank by fraud such as continuous send is punished with permanent exclusion from the ranking.
+{danger:⚠️}In case of misuse of these rights they will be removed!{/danger}
+{danger:⚠️}Trying to improve your rank by fraud such as continuous send is punished with permanent exclusion from the ranking.{/danger}
 
 ### Are there any extra perks for being beneath the top 10?
 
@@ -37,7 +36,7 @@ Not directly, but the first 20 users to reach Level 30 get a free t-shirt from o
 
 ### These levels are annoying, how can I get rid of them?
 
-If you want to disable ranking, please contact our team. Keep in mind that you won't be able to get any of the above-mentioned [level perks](#) if your ranking is disabled.
+If you want to disable ranking, please contact our team. Keep in mind that you won't be able to get any of the above-mentioned [level perks](https://help.opossumts.net/en/bots-and-automation/ranking-and-activity#what-do-i-get-from-leveling-up) if your ranking is disabled.
 
 ### Is there a way I can level faster?
 
