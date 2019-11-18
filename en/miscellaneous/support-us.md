@@ -2,7 +2,7 @@
 title: Support us
 description:
 icon: 💖
-tags:
+tags: donate, translation, advertising
 ---
 
 Hey there!
