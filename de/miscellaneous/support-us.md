@@ -18,7 +18,7 @@ Der einfachste Weg uns zu Unterstützen ist, indem du deinen Freunden von uns er
 
 ### Poste auf Social Media
 
-Du kannst uns natürlich auch helfen, indem du Werbung auf sozialen Medien wie Twitter, Instagram oder Youtube machst. Bildmateriale dafür erhaltet ihr von [Teammitgleidern](https://www.opossumts.net/team/). Wenn du in Deutschland wohnst schicken wir dir auch gerne Werbematerialien zu.
+Du kannst uns natürlich auch helfen, indem du Werbung auf sozialen Medien wie Twitter, Instagram oder Youtube machst. Bildmateriale dafür erhaltet ihr von [Teammitgliedern](https://www.opossumts.net/team/). Wenn du in Deutschland wohnst schicken wir dir auch gerne Werbematerialien zu.
 
 Achte bitte darauf, dass:
 
